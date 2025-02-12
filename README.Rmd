@@ -16,6 +16,8 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
+This is Nadia's line from RStudio.
+
 Megan: This is a line from RStudio
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
@@ -24,14 +26,6 @@ Gwen: This is a line from RStudio.
 
 **Our Groups Experience**
 
-<<<<<<< HEAD
 -   We were struggling with the push process and some group members were struggling with errors and personal access tokens.
-=======
-<<<<<<< Updated upstream
-- We were struggling with the push process and some group members were struggling with errors and personal access tokens.
-=======
--   We were struggling with the push process and some group members were struggling with errors and personal access tokens.
--   Megan had to configure git, by installing the package, running git config user.name and user.email and generating a token (PAT). Then I pulled and resolve merge conflicts, made a commit with my text, and then I was able to push to main.
 
->>>>>>> Stashed changes
->>>>>>> 81b833e3ffce16bebbb49450e014bb7a0782746e
+-   Megan had to configure git, by installing the package, running git config user.name and user.email and generating a token (PAT). Then I pulled and resolve merge conflicts, made a commit with my text, and then I was able to push to main.
