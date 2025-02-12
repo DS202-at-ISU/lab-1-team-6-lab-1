@@ -28,4 +28,10 @@ Gwen: This is a line from RStudio.
 
 **Our Groups Experience**
 
+<<<<<<< Updated upstream
 - We were struggling with the push process and some group members were struggling with errors and personal access tokens.
+=======
+-   We were struggling with the push process and some group members were struggling with errors and personal access tokens.
+-   Megan had to configure git, by installing the package, running git config user.name and user.email and generating a token (PAT). Then I pulled and resolve merge conflicts, made a commit with my text, and then I was able to push to main.
+
+>>>>>>> Stashed changes
