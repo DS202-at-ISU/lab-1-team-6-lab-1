@@ -20,9 +20,27 @@ This is Nadia's line from RStudio.
 
 Megan: This is a line from RStudio
 
-All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
-
 Gwen: This is a line from RStudio.
+
+**12.2**
+
+The repo was already made!
+
+**12.3**
+
+Gwen: I had no problems cloning the GitHub repository to my computer via RStudio, creating the project went smoothly
+
+**12.4**
+
+Gwen: This step went smoothly as well. Talking with my group about the difference between commit and push, helped me to understand what was actually going on.
+
+**12.5**
+
+Gwen: I was able to push successfully the first time. Group members struggled with pulling and pushing their changes in this step and it we tried our best to talk through it with each other and tried different things.
+
+**12.6**
+
+Gwen: The changes were successfully updated, however when I tried to pull from the changes the group members have made I had pulling and merging issues and it took awhile to figure out how to fix. Hopefully all group members have no more issues!
 
 **Our Groups Experience**
 
