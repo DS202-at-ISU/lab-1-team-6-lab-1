@@ -23,6 +23,7 @@ Megan: This is a line from RStudio
 
 Gwen: This is a line from RStudio.
 
+Sam: This is a line from RStudio
 **12.2**
 
 The repo was already made!
@@ -73,3 +74,6 @@ asked questions when we ran into issues.
   git config user.name and user.email and generating a token (PAT). Then
   I pulled and resolve merge conflicts, made a commit with my text, and
   then I was able to push to main.
+  -I (Sam) had an error where my project kept getting an error 
+  and would automatically close when I tried to open it. It required the
+  id to be opened in a notepad to fix.
