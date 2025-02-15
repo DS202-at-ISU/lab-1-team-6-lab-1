@@ -26,6 +26,10 @@ All submissions to the github repo will be automatically uploaded for grading on
 
 Gwen: This is a line from RStudio.
 
+Sam: This is a line from Rstudio
+
 **Our Groups Experience**
 
 - We were struggling with the push process and some group members were struggling with errors and personal access tokens.
+
+-I (Sam) had an error where my project kept getting an error and would automatically close when I tried to open it. It required the id to be opened in a notepad to fix.
